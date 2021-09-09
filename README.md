@@ -2,4 +2,12 @@ The multiagent.py files contain AI search algorithims that are able to successfu
 
 Algorithims implemented:
 
+                          -Minimax
+                          
+                          -Expectimax
+                          
+                          -Alpha-Beta Pruning
+                          
+                          -Evalutation Functions
+
 The Pacman game is already created by UC Berkeley and can be found in pacman.py.
